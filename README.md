@@ -1,14 +1,14 @@
 # Customer-Segmentation-Churn-Pattern-Analytics-in-European-Banking
 This project analyzes customer churn across geography, age, credit score, tenure, and financial profile using Power BI. The dashboard identifies high-risk customer segments and high-value churn patterns to support targeted retention strategies.
 
-Dashboard Pages
+**Dashboard Pages**
 
-Overall Churn Overview
+1. Overall Churn Overview
 
-Segmentation & Demographics
+2. Segmentation & Demographics
 
-High-Value & Risk Analysis
+3. High-Value & Risk Analysis
 
-Tools Used
+**Tools Used**
 
 Power BI, DAX, Data Visualization
