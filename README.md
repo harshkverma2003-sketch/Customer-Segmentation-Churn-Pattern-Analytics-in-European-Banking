@@ -53,6 +53,14 @@ This page highlights revenue risk.
 **Tools Used**
 
 Power BI, DAX, Data Visualization
-<img width="1076" height="537" alt="Page 1 Overview" src="https://github.com/user-attachments/assets/59bbebd2-f0a3-44d9-8b5e-2a5a2393d11d" />
-<img width="1078" height="530" alt="Page 2  Segmentation   Demographics" src="https://github.com/user-attachments/assets/b266e66e-e8c5-4650-99c3-9cc8a790695a" />
-<img width="1076" height="536" alt="Page 3  High Value   Risk Analysis" src="https://github.com/user-attachments/assets/28db4af8-c072-4763-a383-ea5c0a0f1bdf" />
+
+<img width="1086" height="571" alt="image" src="https://github.com/user-attachments/assets/407ee06c-8c67-4d48-a96a-1d6caaa976ea" />
+
+<img width="1079" height="562" alt="Screenshot 2026-02-18 220903" src="https://github.com/user-attachments/assets/61b00800-88ed-4542-98a8-789c97a0fc0d" />
+
+<img width="1082" height="566" alt="Screenshot 2026-02-18 220935" src="https://github.com/user-attachments/assets/52712e49-cba8-494a-abe6-04f32ed7147d" />
+
+At the end this is Final Dashboard
+
+
+<img width="1086" height="571" alt="Screenshot 2026-02-18 221000" src="https://github.com/user-attachments/assets/395b000a-308b-4e38-ac42-7f744b975380" />
