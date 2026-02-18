@@ -54,7 +54,7 @@ This page highlights revenue risk.
 
 Power BI, DAX, Data Visualization
 
-<img width="1086" height="571" alt="image" src="https://github.com/user-attachments/assets/407ee06c-8c67-4d48-a96a-1d6caaa976ea" />
+<img width="1082" height="559" alt="Screenshot 2026-02-18 220836" src="https://github.com/user-attachments/assets/1634bfeb-487f-4638-90e5-d7c56b9c8042" />
 
 <img width="1079" height="562" alt="Screenshot 2026-02-18 220903" src="https://github.com/user-attachments/assets/61b00800-88ed-4542-98a8-789c97a0fc0d" />
 
