@@ -32,46 +32,6 @@ To compare churn behavior across European regions
 
 
 
-
-5. Dataset Description
-The dataset contains information about bank customers including:
-CustomerId – Unique customer identifier
-
-
-CreditScore – Customer credit rating
-
-
-Geography – Country (France, Spain, Germany)
-
-
-Gender – Male or Female
-
-
-Age – Customer age
-
-
-Tenure – Years with bank
-
-
-Balance – Account balance
-
-
-NumOfProducts – Number of products used
-
-
-HasCrCard – Credit card ownership
-
-
-IsActiveMember – Customer activity status
-
-
-EstimatedSalary – Estimated salary
-
-
-Exited – Indicates whether customer churned
-
-
-
 **Churn Analysis**
 
 
@@ -168,13 +128,12 @@ This project provides a clear understanding of churn patterns using customer seg
 
 Power BI, DAX, Data Visualization
 
-<img width="1082" height="559" alt="Screenshot 2026-02-18 220836" src="https://github.com/user-attachments/assets/1634bfeb-487f-4638-90e5-d7c56b9c8042" />
+<img width="1076" height="537" alt="Page 1 Overview" src="https://github.com/user-attachments/assets/89c96c66-e440-4f6a-af14-b0121bc47645" />
+<img width="1078" height="530" alt="Page 2  Segmentation   Demographics" src="https://github.com/user-attachments/assets/82792ce4-59b1-4860-b295-a09abd3f7a12" />
+<img width="1076" height="536" alt="Page 3  High Value   Risk Analysis" src="https://github.com/user-attachments/assets/c30f2f1f-bebe-447f-98c8-7359133ee648" />
 
-<img width="1079" height="562" alt="Screenshot 2026-02-18 220903" src="https://github.com/user-attachments/assets/61b00800-88ed-4542-98a8-789c97a0fc0d" />
-
-<img width="1082" height="566" alt="Screenshot 2026-02-18 220935" src="https://github.com/user-attachments/assets/52712e49-cba8-494a-abe6-04f32ed7147d" />
 
 At the end this is Final Dashboard
 
 
-<img width="1086" height="571" alt="Screenshot 2026-02-18 221000" src="https://github.com/user-attachments/assets/395b000a-308b-4e38-ac42-7f744b975380" />
+<img width="934" height="529" alt="Screenshot 2026-03-01 122333" src="https://github.com/user-attachments/assets/0f56e8c4-056b-418e-a22d-082a588a9552" />
