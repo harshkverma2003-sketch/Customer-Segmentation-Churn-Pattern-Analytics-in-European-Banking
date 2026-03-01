@@ -3,7 +3,7 @@ This project analyzes customer churn across geography, age, credit score, tenure
 Customer churn is a major problem in the banking industry. When customers leave the bank, it causes loss of revenue and increases the cost of acquiring new customers. Although banks track overall churn rate, they often do not know which specific customer groups are more likely to leave.
 This project focuses on analyzing customer churn by dividing customers into different segments based on geography, age, financial profile, and tenure.
 
-**2. Problem Statement**
+** Problem Statement**
 
 Banks have customer data but face difficulty in:
 
@@ -19,7 +19,8 @@ Measuring whether churn is happening among high-value or low-value customers
 
 Because of this, retention strategies are often general and not targeted.
 
-3. Project Objective
+**Project Objective**
+
 The main objective of this project is:
 To calculate overall churn rate
 
@@ -58,7 +59,7 @@ Evaluated potential revenue risk
 
 
 
-**7. Dashboard Description**
+**Dashboard Description**
 
 
 The Power BI dashboard contains three main pages:
@@ -113,8 +114,8 @@ This page highlights revenue risk.
 
 
 
+**Conclusion**
 
-10. Conclusion
 This project provides a clear understanding of churn patterns using customer segmentation. By identifying high-risk groups and financial risk areas, banks can design better retention strategies and reduce revenue loss.
 
 
