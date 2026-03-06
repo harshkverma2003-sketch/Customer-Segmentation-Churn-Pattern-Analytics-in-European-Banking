@@ -137,4 +137,5 @@ Power BI, DAX, Data Visualization
 At the end this is Final Dashboard
 
 
-<img width="934" height="529" alt="Screenshot 2026-03-01 122333" src="https://github.com/user-attachments/assets/0f56e8c4-056b-418e-a22d-082a588a9552" />
+<img width="935" height="534" alt="Screenshot 2026-03-06 183418" src="https://github.com/user-attachments/assets/9336d1b7-55a2-410c-99b5-058af74b43eb" />
+
