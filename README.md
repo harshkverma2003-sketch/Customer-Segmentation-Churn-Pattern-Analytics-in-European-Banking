@@ -5,19 +5,19 @@ This project focuses on analyzing customer churn by dividing customers into diff
 
 ** Problem Statement**
 
-Banks have customer data but face difficulty in:
+* Banks have customer data but face difficulty in:
 
 
-Identifying high-risk customer segments
+* Identifying high-risk customer segments
 
 
-Understanding churn differences across countries
+* Understanding churn differences across countries
 
 
-Measuring whether churn is happening among high-value or low-value customers
+* Measuring whether churn is happening among high-value or low-value customers
 
 
-Because of this, retention strategies are often general and not targeted.
+* Because of this, retention strategies are often general and not targeted.
 
 **Project Objective**
 
@@ -25,10 +25,10 @@ The main objective of this project is:
 To calculate overall churn rate
 
 
-To identify which customer segments have higher churn
+* To identify which customer segments have higher churn
 
 
-To compare churn behavior across European regions
+* To compare churn behavior across European regions
 
 
 
@@ -36,26 +36,26 @@ To compare churn behavior across European regions
 **Churn Analysis**
 
 
-Calculated overall churn rate
+* Calculated overall churn rate
 
 
-Compared churn across segments
+* Compared churn across segments
 
 
-Analyzed churn distribution across geography and demographics
+* Analyzed churn distribution across geography and demographics
 
 
 
 **High-Value Customer Analysis**
 
 
-Identified customers with high balances
+* Identified customers with high balances
 
 
-Checked churn among premium customers
+* Checked churn among premium customers
 
 
-Evaluated potential revenue risk
+* Evaluated potential revenue risk
 
 
 
@@ -67,45 +67,45 @@ The Power BI dashboard contains three main pages:
 
 Page 1: Overall Churn Overview
 
-Total Customers
+* Total Customers
 
 
-Overall Churn Rate
+* Overall Churn Rate
 
 
-Churn by Geography
+* Churn by Geography
 
 
-Churn by Gender
+* Churn by Gender
 
 
 This page shows the overall churn situation.
 
 Page 2: Segmentation & Demographics
 
-Churn by Age Group
+* Churn by Age Group
 
 
-Churn by Credit Score
+* Churn by Credit Score
 
 
-Churn by Tenure
+* Churn by Tenure
 
 
-Churn by Balance
+* Churn by Balance
 
 
 This page identifies high-risk segments.
 
 Page 3: High-Value & Risk Analysis
 
-High-balance churn rate
+* High-balance churn rate
 
 
-Salary vs Balance analysis
+* Salary vs Balance analysis
 
 
-At-risk customer list
+* At-risk customer list
 
 
 This page highlights revenue risk.
