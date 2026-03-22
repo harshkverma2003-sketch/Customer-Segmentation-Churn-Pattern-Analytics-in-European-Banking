@@ -129,13 +129,11 @@ This project provides a clear understanding of churn patterns using customer seg
 
 Power BI, DAX, Data Visualization
 
-<img width="1076" height="537" alt="Page 1 Overview" src="https://github.com/user-attachments/assets/89c96c66-e440-4f6a-af14-b0121bc47645" />
-<img width="1078" height="530" alt="Page 2  Segmentation   Demographics" src="https://github.com/user-attachments/assets/82792ce4-59b1-4860-b295-a09abd3f7a12" />
-<img width="1076" height="536" alt="Page 3  High Value   Risk Analysis" src="https://github.com/user-attachments/assets/c30f2f1f-bebe-447f-98c8-7359133ee648" />
-
+<img width="934" height="520" alt="Screenshot 2026-03-22 195953" src="https://github.com/user-attachments/assets/2b8517be-b581-4c3c-b472-c843d7e65fe7" />
+<img width="930" height="520" alt="Screenshot 2026-03-22 200010" src="https://github.com/user-attachments/assets/fed15662-3718-4afc-9602-9ea203e5d865" />
+<img width="935" height="535" alt="Screenshot 2026-03-22 200027" src="https://github.com/user-attachments/assets/12be770e-c045-427c-a021-bf25f082f0b4" />
 
 At the end this is Final Dashboard
 
-
-<img width="935" height="534" alt="Screenshot 2026-03-06 183418" src="https://github.com/user-attachments/assets/9336d1b7-55a2-410c-99b5-058af74b43eb" />
+<img width="938" height="538" alt="Screenshot 2026-03-22 200044" src="https://github.com/user-attachments/assets/06d1ba38-4977-46f2-8d24-660dc788c485" />
 
